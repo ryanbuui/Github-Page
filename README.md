@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ryan Bui [ [About Me](#about-me) | [Projects](#projects) | [Tech](#technologies) ]
 ![Self-Image](./self-image.jpg)
 ## Studying **Computer Science** at UCSD (_2019-2023_)
@@ -36,7 +35,3 @@ git stash
 ```
 
 ### [Click here to see my hobbies](HobbiesList.md)
-=======
-# Github-Page
-Ryan Bui
->>>>>>> 870b843829ba19b08f7f1538f10104505e9b3c93
